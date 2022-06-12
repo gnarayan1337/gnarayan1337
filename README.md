@@ -3,15 +3,12 @@
 
 ---
 
-My name is Gautam and I am a student, full-stack engineer, and blockchain developer from Dallas, Texas.
-
-I am the founder of the nonprofit [Cryptified](https://cryptified.com). I enjoy making contributions, facing new challenges, and working on projects.
+My name is Gautam and I am a competitive programmer, full-stack engineer, and blockchain developer from Allen, Texas. I enjoy making contributions, facing new challenges, and working on projects.
 
 ---
 ## Connect with me
 - [Website](https://gnarayan.com)
-- [Linkedin](https://linkedin.com/in/gautam)
-- [Email](mailto:mail@gnarayan1337@gmailcom)
+- [Email](mailto:gnarayan1337@gmail.com)
 
 ---
 ## Languages and Tools
@@ -69,8 +66,8 @@ I am the founder of the nonprofit [Cryptified](https://cryptified.com). I enjoy 
 
 ---
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnarayan1337&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Gautam's Github Stats">
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnarayan1337&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Gautam's Github Stats"> -->
 
 
 [![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnarayan1337&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
