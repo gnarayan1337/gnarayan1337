@@ -7,7 +7,7 @@ My name is Gautam and I am a competitive programmer, full-stack engineer, and bl
 
 ---
 ## Connect with me
-- [Website](https://gnarayan.com)
+- [Website](https://g1narayan.com)
 - [Email](mailto:gnarayan1337@gmail.com)
 
 ---
