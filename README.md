@@ -10,6 +10,11 @@ My name is Gautam and I am a competitive programmer, full-stack engineer, and bl
 - [Website](https://g1narayan.com)
 - [Email](mailto:gnarayan1337@gmail.com)
 
+ <a href="https://app.daily.dev/gnarayan"><img align="right" src="https://raw.githubusercontent.com/kavinvalli/kavinvalli/devcard/devcard.svg" width="256" alt="Gautam Narayan's Dev Card"/></a>
+ 
+![Metrics](https://metrics.lecoq.io/gnarayan1337?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FChicago)
+
+ 
 ---
 ## Languages and Tools
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
