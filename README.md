@@ -1,9 +1,11 @@
 
-### Hi There! Welcome to my Github Page :wave:
+### Hi There! Welcome to my Github Page :wave: You can learn more about me on my [Website](https://kavin.me)
 
+<!--
 ---
 
 My name is Gautam and I am a competitive programmer, full-stack engineer, and blockchain developer from Allen, Texas. I enjoy making contributions, facing new challenges, and working on projects.
+-->
  
 ---
 ## Languages and Tools
