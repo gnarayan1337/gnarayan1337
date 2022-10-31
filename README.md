@@ -52,26 +52,25 @@ My name is Gautam and I am a competitive programmer, full-stack engineer, and bl
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Recent Activity
-<!--START_SECTION:activity-->
-
-<!--
-
-1. 💪 Opened PR [#53](https://github.com/Hashnode/support/pull/53) in [Hashnode/support](https://github.com/Hashnode/support)
-2. 💪 Opened PR [#15](https://github.com/someshkar/dotco/pull/15) in [someshkar/dotco](https://github.com/someshkar/dotco)
-3. 🗣 Commented on [#779](https://github.com/sheerun/vim-polyglot/issues/779) in [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
-4. 💪 Opened PR [#21](https://github.com/dotangad/liret/pull/21) in [dotangad/liret](https://github.com/dotangad/liret)
-5. 💪 Opened PR [#2](https://github.com/JLighter/aura.nvim/pull/2) in [JLighter/aura.nvim](https://github.com/JLighter/aura.nvim)
-
--->
-
-<!--END_SECTION:activity-->
-
----
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnarayan1337&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Gautam's Github Stats"> -->
 
-
+<!--
 [![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnarayan1337&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Kavin's Github Stats"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Kavin's Github Stats"> 
+ 
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
