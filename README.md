@@ -1,5 +1,5 @@
 
-### Hi There! Welcome to my Github Page :wave: You can learn more about me on my [Website](https://kavin.me)
+### Hi There! Welcome to my Github Page :wave: You can learn more about me on my [Website](https://gnarayan.com)
 
 <!--
 ---
