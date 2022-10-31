@@ -4,14 +4,6 @@
 ---
 
 My name is Gautam and I am a competitive programmer, full-stack engineer, and blockchain developer from Allen, Texas. I enjoy making contributions, facing new challenges, and working on projects.
-
----
-## Connect with me
-- [Website](https://g1narayan.com)
-- [Email](mailto:gnarayan1337@gmail.com)
-
-
-
  
 ---
 ## Languages and Tools
