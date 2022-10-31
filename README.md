@@ -58,7 +58,6 @@ My name is Gautam and I am a competitive programmer, full-stack engineer, and bl
 
 
 [![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=gnarayan1337&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Gautam's Github Stats"> 
  
  
 
