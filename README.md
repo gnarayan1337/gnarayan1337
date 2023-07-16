@@ -1,4 +1,4 @@
-
+<!--
 ### Hi There! Welcome to my Github Page :wave:   You can learn more about me on my [website](https://gnarayan.com)
 
 <!--
@@ -45,3 +45,4 @@ My name is Gautam and I am a competitive programmer, full-stack engineer, and bl
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+-->
