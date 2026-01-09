@@ -1,5 +1,4 @@
-Junior @ UT Austin | Officer @ Texas Blockchain | Previously @ Coinbase, Scale AI | 
-
+Junior @ UT Austin | Previously @ Coinbase, Scale AI | Officer @ Texas Blockchain 
 <!--### Hi There! Welcome to my Github Page :wave:   You can learn more about me on my [website](https://gnarayan.com)
 
 <!--
